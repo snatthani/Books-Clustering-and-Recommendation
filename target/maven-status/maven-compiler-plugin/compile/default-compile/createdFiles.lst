@@ -1,0 +1,15 @@
+com/miniproject/FrequencyByDoc.class
+com/miniproject/WordFrequencyData.class
+com/miniproject/CorpusByWord.class
+com/miniproject/DocumentReader.class
+com/miniproject/CorpusByWord$DocIndex.class
+com/miniproject/Stopwords.class
+com/miniproject/CassandraConnector.class
+com/miniproject/BooksSample.class
+com/miniproject/DocWordData.class
+com/miniproject/PorterStemmer.class
+com/miniproject/CorpusData.class
+com/miniproject/Main.class
+com/miniproject/WordCounter.class
+com/miniproject/DocumentCluster.class
+com/miniproject/ClientCredentials.class
